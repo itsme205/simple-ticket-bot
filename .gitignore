@@ -1,0 +1,6 @@
+src/.env
+dist
+src/modules/data_manager/data
+
+node_modules
+package-lock.json
